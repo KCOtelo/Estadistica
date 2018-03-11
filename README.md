@@ -1,5 +1,5 @@
-# Estadistica
-Practica del modulo de estadística
+# Estadística
+Práctica del modulo de estadística
 
 Indice de contenidos:
   * Practica1.ipynb Práctica 1
