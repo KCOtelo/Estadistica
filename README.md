@@ -1,0 +1,2 @@
+# Estadistica
+Práctica de estadística
